@@ -155,7 +155,7 @@ npm run dev
 ```
 - **Frontend**: [`http://localhost:5173`](http://localhost:5173)
 - **Backend API**: [`http://localhost:5000`](http://localhost:5000)
-- **API Health**: [`http://localhost:5000/api/health`](http://localhost:5000/api/health)
+- **Wedsite Live on** :[https://client-nine-ebon-91.vercel.app](https://client-nine-ebon-91.vercel.app)
 
 ### 4. Optional Manual Re-seed
 ```bash
