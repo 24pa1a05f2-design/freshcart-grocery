@@ -58,9 +58,9 @@ The database comes pre-seeded with grocery categories, products, sample past ord
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: React.js (Vite), Tailwind CSS, React Router v6, Axios, Recharts, Lucide React Icons.
-- **Backend**: Node.js, Express.js, JSON Web Tokens (JWT), Bcrypt.js, CORS.
-- **Database**: MongoDB & Mongoose (includes automatic zero-config embedded MongoDB fallback via `mongodb-memory-server` if local `mongod` is not installed).
+- **Frontend**: React.js (Vite), Tailwind CSS, React Router , Recharts.
+- **Backend**: Node.js, Express.js, JSON Web Tokens (JWT).
+- **Database**: MongoDB & Mongoose.
 
 ---
 
